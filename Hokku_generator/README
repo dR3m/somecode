@@ -1,0 +1,7 @@
+Easy pwn task.
+Compile generator.c: gcc generator.c -o generator -fno-stack-protector -no-pie
+sudo  chmod 4775 generator
+other files: chmod 770
+
+Your goal is print content of read_me (some hokku). 
+Where is 3 level - 3 hokku.
