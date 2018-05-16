@@ -4,4 +4,4 @@ sudo  chmod 4775 generator
 other files: chmod  -R 770
 
 Your goal is print content of open_me (some hokku). 
-Where is 3 level - 3 hokku.
+Where is 3 levels - 3 hokkus.
