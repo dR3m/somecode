@@ -1,8 +1,8 @@
-Enterprise application for some imagine company. 
+Enterprise C++/QT/SQLlite application for some imagine company. 
 We have 3 type of workers: 
-+Employee
-+Manager
-+Sales
++ Employee
++ Manager
++ Sales
 
 Salary for each type calculate with special rules:
 + for employee: base salary + 3% for each year of service, but not more then 30% of surcharge
